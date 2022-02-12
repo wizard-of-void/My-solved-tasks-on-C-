@@ -1,0 +1,15 @@
+C:\Users\Joper\source\repos\xoxoxo\bin\Debug\net6.0\xoxoxo.exe
+C:\Users\Joper\source\repos\xoxoxo\bin\Debug\net6.0\xoxoxo.deps.json
+C:\Users\Joper\source\repos\xoxoxo\bin\Debug\net6.0\xoxoxo.runtimeconfig.json
+C:\Users\Joper\source\repos\xoxoxo\bin\Debug\net6.0\xoxoxo.dll
+C:\Users\Joper\source\repos\xoxoxo\bin\Debug\net6.0\ref\xoxoxo.dll
+C:\Users\Joper\source\repos\xoxoxo\bin\Debug\net6.0\xoxoxo.pdb
+C:\Users\Joper\source\repos\xoxoxo\obj\Debug\net6.0\xoxoxo.csproj.AssemblyReference.cache
+C:\Users\Joper\source\repos\xoxoxo\obj\Debug\net6.0\xoxoxo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joper\source\repos\xoxoxo\obj\Debug\net6.0\xoxoxo.AssemblyInfoInputs.cache
+C:\Users\Joper\source\repos\xoxoxo\obj\Debug\net6.0\xoxoxo.AssemblyInfo.cs
+C:\Users\Joper\source\repos\xoxoxo\obj\Debug\net6.0\xoxoxo.csproj.CoreCompileInputs.cache
+C:\Users\Joper\source\repos\xoxoxo\obj\Debug\net6.0\xoxoxo.dll
+C:\Users\Joper\source\repos\xoxoxo\obj\Debug\net6.0\ref\xoxoxo.dll
+C:\Users\Joper\source\repos\xoxoxo\obj\Debug\net6.0\xoxoxo.pdb
+C:\Users\Joper\source\repos\xoxoxo\obj\Debug\net6.0\xoxoxo.genruntimeconfig.cache
